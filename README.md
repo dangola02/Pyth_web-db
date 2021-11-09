@@ -4,7 +4,6 @@ Web application to search news about cryptocurrency.
 ```
 ## Installation
 - Install dependencies:
-- 
 ```shell
 pip install -r requirements.txt
 ```
@@ -24,9 +23,9 @@ python3 src/web-pyth.py
 ```
 
 ## Usage
-
-In order to use the application, simply enter the name of the cryptocurrency in the text field and click on the search button.
-
+After running go to your localhost:5000/coin 
+You specificcally need to go to /coin
+Then just type coin and search articles.
 ## Example
 
 <p align="center">
